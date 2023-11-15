@@ -1,0 +1,18 @@
+.persons-list {
+    display:flex;
+    align-items:center;
+    gap:20px;
+    flex-basis:30%;
+    justify-content: space-between;
+  }
+  .person-item{
+    text-align: center;
+    margin:10px;
+    padding:40px;
+
+  }
+  
+.person-item img {
+    max-width: 50px; 
+    
+  } 
